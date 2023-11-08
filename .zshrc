@@ -123,7 +123,7 @@ unset __conda_setup
 #
 # Custom stuff :-)
 #
-alias vim=nvim
+#alias vim=nvim
 alias activate_anaconda3="source /opt/anaconda3/bin/activate"
 alias scala3="/opt/scala3/scala"
 
